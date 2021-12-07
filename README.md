@@ -1,1 +1,1 @@
-# Insect-Catch-Game
+# Insect-Catch-Game-Using-HTML-CSS-And-JavaScript
